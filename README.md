@@ -1,2 +1,2 @@
-# Diamond-topup
-Welcome to MH diamond topup 
+# MH Diamond-topup
+Welcome to MH Diamond-TopUp 
